@@ -5,7 +5,7 @@ Typescript Starter pack for next project
 
 ## Technologies 
 
-    - React
+    - Next.js
     - Typescript
     - sass
     - jest
